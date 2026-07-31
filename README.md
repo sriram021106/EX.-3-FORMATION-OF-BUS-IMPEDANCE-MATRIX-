@@ -71,6 +71,9 @@ ZBUS=Zbus
 ```
 # OUTPUT:
 
+<img width="1087" height="552" alt="image" src="https://github.com/user-attachments/assets/eaafded8-f922-4249-8e7d-6af3dd4867fc" />
+
+
 # RESULT: 
 Bus impedance Matrix for the given network is formed using Mat Lab program and 
 verified the calculated values with the output result.
